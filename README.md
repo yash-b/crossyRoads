@@ -1,6 +1,6 @@
 Crossy Road  
 ===============================
-Why did the chicken cross the road? Find out by controlling the chicken but don't get hit by the oncoming traffic! This amazing mobile is recreated using unreal engine and is only playable on PC using Unreal Engine Testing environment. But the mechanics are all there and better because of the new First Person View! 
+Why did the chicken cross the road? Find out by controlling the chicken but don't get hit by the oncoming traffic! This amazing mobile game is recreated using unreal engine and is only playable on PC using Unreal Engine Testing environment. But the mechanics are all there and better because of the new First Person View! 
 
 
 Contributors of the group project:  
@@ -27,5 +27,8 @@ Game Controls:
   
  Pictures  
  --------  
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/qFk1fvx/image0.jpg" alt="image0" border="0"></a>
+
+<a href="https://ibb.co/CmWCVhx"><img src="https://i.ibb.co/GnFYCcg/Screen-Shot-2019-11-06-at-9-58-59-PM.png" alt="Screen-Shot-2019-11-06-at-9-58-59-PM" border="0"></a>
 
 
